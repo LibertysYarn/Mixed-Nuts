@@ -23,6 +23,9 @@ ActiveRecord::Schema.define(:version => 20131205044628) do
   add_index "statuses", ["user_id"], :name => "index_statuses_on_user_id"
 
   create_table "users", :force => true do |t|
+    t.string   "first_name"
+    t.string   "last_name"
+    t.string   "profile_name"
     t.string   "email",                  :default => "", :null => false
     t.string   "encrypted_password",     :default => "", :null => false
     t.string   "reset_password_token"
