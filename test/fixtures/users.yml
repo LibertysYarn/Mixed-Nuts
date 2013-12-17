@@ -1,7 +1,5 @@
-bob:
-    first_name: "Bob"
-    last_name: "Unlce"
-    email: "bab@bab.com"
-    profile_name: "bobsyouruncle"
-    password: "password"
-    password_confimation: "password"
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
