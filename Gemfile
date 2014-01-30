@@ -12,6 +12,8 @@ gem 'simple_form'
 
 group :test do
   gem 'shoulda'
+  gem 'shoulda-matchers'
+  gem 'shoulda-context'
 end
 
 group :development, :test do

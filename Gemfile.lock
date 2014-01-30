@@ -60,7 +60,6 @@ GEM
     mime-types (1.25.1)
     multi_json (1.8.2)
     orm_adapter (0.5.0)
-    pg (0.14.1)
     pg (0.14.1-x86-mingw32)
     polyglot (0.3.3)
     rack (1.4.5)
@@ -134,6 +133,8 @@ DEPENDENCIES
   rails (= 3.2.13)
   sass-rails (~> 3.2.3)
   shoulda
+  shoulda-context
+  shoulda-matchers
   simple_form
   sqlite3
   therubyracer
