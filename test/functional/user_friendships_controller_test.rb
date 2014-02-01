@@ -31,22 +31,22 @@ class UserFriendshipsControllerTest < ActionController::TestCase
       end
 
       should "display the friend's name" do
-        get :new, friend_id: users(:jim).id
+        get :new, friend_id: users(:jim)
         assert_match /#{users(:jim).full_name}/, response.body
       end
 
       should "assign a user friendship" do
-        get :new, friend_id: users(:jim).id
+        get :new, friend_id: users(:jim)
         assert assigns(:user_friendship)
       end
 
       should "assign a user friendship with the user as current user" do
-        get :new, friend_id: users(:jim).id
+        get :new, friend_id: users(:jim)
         assert_equal assigns(:user_friendship).user, users(:jason)
       end
 
       should "assign a user friendship with the correct friend" do
-        get :new, friend_id: users(:jim).id
+        get :new, friend_id: users(:jim)
         assert_equal assigns(:user_friendship).friend, users(:jim)
       end
     end
@@ -98,9 +98,17 @@ class UserFriendshipsControllerTest < ActionController::TestCase
         should "create a user friendship" do
           assert users(:jason).friends.include?(users(:mike))
         end
+        
+        should "redirect to the profile page of the friend" do
+          assert_response :redirect
+          assert_redirected_to profile_path(users(:mike))
+        end
+        
+        should "set the flash success message" do
+          assert flash[:success]
+          assert_equal "You are now friends with #{users(:mike).full_name}", flash[:success]
+        end
       end
-
-
     end
-  end
+ end
 end
