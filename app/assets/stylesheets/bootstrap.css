@@ -736,6 +736,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  padding-top: 1%;
 }
 @media (min-width: 768px) {
   .container {
@@ -1740,7 +1741,7 @@ input[type="date"] {
 }
 .radio,
 .checkbox {
-  display: block;
+  display: inline;
   min-height: 21px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -1757,7 +1758,7 @@ input[type="date"] {
 .checkbox input[type="checkbox"],
 .checkbox-inline input[type="checkbox"] {
   float: left;
-  margin-left: -20px;
+  /*margin-left: -20px;*/
 }
 .radio + .radio,
 .checkbox + .checkbox {
