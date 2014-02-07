@@ -736,7 +736,6 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
-  padding-top: 1%;
 }
 @media (min-width: 768px) {
   .container {
@@ -1741,7 +1740,7 @@ input[type="date"] {
 }
 .radio,
 .checkbox {
-  display: inline;
+  display: block;
   min-height: 21px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -1758,7 +1757,7 @@ input[type="date"] {
 .checkbox input[type="checkbox"],
 .checkbox-inline input[type="checkbox"] {
   float: left;
-  /*margin-left: -20px;*/
+  margin-left: -20px;
 }
 .radio + .radio,
 .checkbox + .checkbox {
@@ -3659,7 +3658,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
-    margin-left: 5%;
   }
 }
 .navbar-collapse {
@@ -3746,7 +3744,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 19.5px 15px;
-  font-size: 2em;
+  font-size: 19px;
   line-height: 21px;
   height: 21px;
 }
@@ -3826,14 +3824,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-nav > li {
     float: left;
-    font-size: 1.5em;
   }
   .navbar-nav > li > a {
     padding-top: 19.5px;
     padding-bottom: 19.5px;
   }
   .navbar-nav.navbar-right:last-child {
-    margin-right: 5%;
+    margin-right: -15px;
   }
 }
 @media (min-width: 768px) {
