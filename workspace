@@ -1,0 +1,637 @@
+<NotepadPlus>
+    <Project name="mixednuts">
+        <Folder name=".metadata">
+            <Folder name=".plugins">
+                <Folder name="org.eclipse.cdt.core">
+                    <File name=".metadata\.plugins\org.eclipse.cdt.core\.log" />
+                </Folder>
+                <Folder name="org.eclipse.cdt.make.core">
+                    <File name=".metadata\.plugins\org.eclipse.cdt.make.core\specs.c" />
+                    <File name=".metadata\.plugins\org.eclipse.cdt.make.core\specs.cpp" />
+                </Folder>
+                <Folder name="org.eclipse.core.resources">
+                    <Folder name=".history" />
+                    <Folder name=".root">
+                        <Folder name=".indexes">
+                            <File name=".metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version" />
+                            <File name=".metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index" />
+                            <File name=".metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version" />
+                        </Folder>
+                        <File name=".metadata\.plugins\org.eclipse.core.resources\.root\1.tree" />
+                    </Folder>
+                    <Folder name=".safetable">
+                        <File name=".metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" />
+                    </Folder>
+                </Folder>
+                <Folder name="org.eclipse.core.runtime">
+                    <Folder name=".settings">
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\com.android.ide.eclipse.adt.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\com.aptana.editor.common.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\com.aptana.portal.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\com.aptana.theme.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\com.aptana.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ant.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.m2e.discovery.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.search.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.texteditor.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs" />
+                    </Folder>
+                </Folder>
+                <Folder name="org.eclipse.e4.workbench">
+                    <File name=".metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi" />
+                </Folder>
+                <Folder name="org.eclipse.jdt.core">
+                    <File name=".metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache" />
+                    <File name=".metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache" />
+                    <File name=".metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat" />
+                </Folder>
+                <Folder name="org.eclipse.jdt.ui">
+                    <File name=".metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml" />
+                    <File name=".metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml" />
+                    <File name=".metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml" />
+                </Folder>
+                <Folder name="org.eclipse.ui.workbench">
+                    <File name=".metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" />
+                </Folder>
+            </Folder>
+            <File name=".metadata\.lock" />
+            <File name=".metadata\.log" />
+            <File name=".metadata\version.ini" />
+        </Folder>
+        <Folder name="app">
+            <Folder name="assets">
+                <Folder name="images">
+                    <File name="app\assets\images\glyphicons-halflings-regular.eot" />
+                    <File name="app\assets\images\glyphicons-halflings-regular.svg" />
+                    <File name="app\assets\images\glyphicons-halflings-regular.ttf" />
+                    <File name="app\assets\images\glyphicons-halflings-regular.woff" />
+                    <File name="app\assets\images\rails.png" />
+                </Folder>
+                <Folder name="javascripts">
+                    <File name="app\assets\javascripts\application.js" />
+                    <File name="app\assets\javascripts\bootstrap.js" />
+                    <File name="app\assets\javascripts\profiles.js.coffee" />
+                    <File name="app\assets\javascripts\statuses.js.coffee" />
+                    <File name="app\assets\javascripts\user_friendships.js.coffee" />
+                </Folder>
+                <Folder name="stylesheets">
+                    <File name="app\assets\stylesheets\application.css" />
+                    <File name="app\assets\stylesheets\bootstrap.css" />
+                    <File name="app\assets\stylesheets\profiles.css.scss" />
+                    <File name="app\assets\stylesheets\scaffolds.css.scss" />
+                    <File name="app\assets\stylesheets\statuses.css.scss" />
+                    <File name="app\assets\stylesheets\user_friendships.css.scss" />
+                </Folder>
+            </Folder>
+            <Folder name="controllers">
+                <File name="app\controllers\application_controller.rb" />
+                <File name="app\controllers\profiles_controller.rb" />
+                <File name="app\controllers\statuses_controller.rb" />
+                <File name="app\controllers\user_friendships_controller.rb" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="app\helpers\application_helper.rb" />
+                <File name="app\helpers\profiles_helper.rb" />
+                <File name="app\helpers\statuses_helper.rb" />
+                <File name="app\helpers\user_friendships_helper.rb" />
+            </Folder>
+            <Folder name="mailers">
+                <File name="app\mailers\.gitkeep" />
+                <File name="app\mailers\user_notifier.rb" />
+            </Folder>
+            <Folder name="models">
+                <File name="app\models\.gitkeep" />
+                <File name="app\models\status.rb" />
+                <File name="app\models\user.rb" />
+                <File name="app\models\user_friendship.rb" />
+            </Folder>
+            <Folder name="views">
+                <Folder name="devise">
+                    <Folder name="confirmations">
+                        <File name="app\views\devise\confirmations\new.html.erb" />
+                    </Folder>
+                    <Folder name="mailer">
+                        <File name="app\views\devise\mailer\confirmation_instructions.html.erb" />
+                        <File name="app\views\devise\mailer\reset_password_instructions.html.erb" />
+                        <File name="app\views\devise\mailer\unlock_instructions.html.erb" />
+                    </Folder>
+                    <Folder name="passwords">
+                        <File name="app\views\devise\passwords\edit.html.erb" />
+                        <File name="app\views\devise\passwords\new.html.erb" />
+                    </Folder>
+                    <Folder name="registrations">
+                        <File name="app\views\devise\registrations\edit.html.erb" />
+                        <File name="app\views\devise\registrations\new.html.erb" />
+                    </Folder>
+                    <Folder name="sessions">
+                        <File name="app\views\devise\sessions\new.html.erb" />
+                    </Folder>
+                    <Folder name="shared">
+                        <File name="app\views\devise\shared\_links.erb" />
+                    </Folder>
+                    <Folder name="unlocks">
+                        <File name="app\views\devise\unlocks\new.html.erb" />
+                    </Folder>
+                </Folder>
+                <Folder name="layouts">
+                    <Folder name="partials" />
+                    <File name="app\views\layouts\application.html.erb" />
+                </Folder>
+                <Folder name="profiles">
+                    <File name="app\views\profiles\show.html.erb" />
+                </Folder>
+                <Folder name="statuses">
+                    <File name="app\views\statuses\edit.html.erb" />
+                    <File name="app\views\statuses\index.html.erb" />
+                    <File name="app\views\statuses\new.html.erb" />
+                    <File name="app\views\statuses\show.html.erb" />
+                    <File name="app\views\statuses\_form.html.erb" />
+                </Folder>
+                <Folder name="user_friendships">
+                    <File name="app\views\user_friendships\create.html.erb" />
+                    <File name="app\views\user_friendships\edit.html.erb" />
+                    <File name="app\views\user_friendships\index.html.erb" />
+                    <File name="app\views\user_friendships\new.html.erb" />
+                </Folder>
+                <Folder name="user_notifier">
+                    <File name="app\views\user_notifier\friend_requested.html.erb" />
+                    <File name="app\views\user_notifier\friend_request_accepted.html.erb" />
+                </Folder>
+            </Folder>
+            <File name="app\decorators\user_friendship_decorator.rb" />
+        </Folder>
+        <Folder name="config">
+            <Folder name="environments">
+                <File name="config\environments\development.rb" />
+                <File name="config\environments\production.rb" />
+                <File name="config\environments\test.rb" />
+            </Folder>
+            <Folder name="initializers">
+                <File name="config\initializers\backtrace_silencers.rb" />
+                <File name="config\initializers\devise.rb" />
+                <File name="config\initializers\inflections.rb" />
+                <File name="config\initializers\mime_types.rb" />
+                <File name="config\initializers\secret_token.rb" />
+                <File name="config\initializers\session_store.rb" />
+                <File name="config\initializers\simple_form.rb" />
+                <File name="config\initializers\simple_form_bootstrap.rb" />
+                <File name="config\initializers\wrap_parameters.rb" />
+            </Folder>
+            <Folder name="locales">
+                <File name="config\locales\devise.en.yml" />
+                <File name="config\locales\en.yml" />
+                <File name="config\locales\simple_form.en.yml" />
+            </Folder>
+            <File name="config\application.rb" />
+            <File name="config\boot.rb" />
+            <File name="config\database.yml" />
+            <File name="config\environment.rb" />
+            <File name="config\routes.rb" />
+        </Folder>
+        <Folder name="db">
+            <Folder name="migrate">
+                <File name="db\migrate\20131204140405_create_statuses.rb" />
+                <File name="db\migrate\20131205040938_devise_create_users.rb" />
+                <File name="db\migrate\20131205044628_add_user_id_to_statuses.rb" />
+                <File name="db\migrate\20140128191610_create_user_friendships.rb" />
+                <File name="db\migrate\20140205143811_add_state_to_user_friendships.rb" />
+            </Folder>
+            <File name="db\development.sqlite3" />
+            <File name="db\production.sqlite3" />
+            <File name="db\schema.rb" />
+            <File name="db\seeds.rb" />
+            <File name="db\test.sqlite3" />
+        </Folder>
+        <Folder name="doc">
+            <File name="doc\README_FOR_APP" />
+        </Folder>
+        <Folder name="lib">
+            <Folder name="assets">
+                <File name="lib\assets\.gitkeep" />
+            </Folder>
+            <Folder name="tasks">
+                <File name="lib\tasks\.gitkeep" />
+            </Folder>
+            <Folder name="templates">
+                <Folder name="erb">
+                    <Folder name="scaffold">
+                        <File name="lib\templates\erb\scaffold\_form.html.erb" />
+                    </Folder>
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="log">
+            <File name="log\.gitkeep" />
+            <File name="log\development.log" />
+            <File name="log\production.log" />
+            <File name="log\test.log" />
+        </Folder>
+        <Folder name="public">
+            <File name="public\404.html" />
+            <File name="public\422.html" />
+            <File name="public\500.html" />
+            <File name="public\favicon.ico" />
+            <File name="public\robots.txt" />
+        </Folder>
+        <Folder name="script">
+            <File name="script\rails" />
+        </Folder>
+        <Folder name="test">
+            <Folder name="fixtures">
+                <File name="test\fixtures\.gitkeep" />
+                <File name="test\fixtures\statuses.yml" />
+                <File name="test\fixtures\users.yml" />
+                <File name="test\fixtures\user_friendships.yml" />
+            </Folder>
+            <Folder name="functional">
+                <File name="test\functional\.gitkeep" />
+                <File name="test\functional\profiles_controller_test.rb" />
+                <File name="test\functional\statuses_controller_test.rb" />
+                <File name="test\functional\user_friendships_controller_test.rb" />
+                <File name="test\functional\user_notifier_test.rb" />
+            </Folder>
+            <Folder name="integration">
+                <File name="test\integration\.gitkeep" />
+                <File name="test\integration\add_a_friend_test.rb" />
+                <File name="test\integration\custom_routes_test.rb" />
+            </Folder>
+            <Folder name="performance">
+                <File name="test\performance\browsing_test.rb" />
+            </Folder>
+            <Folder name="unit">
+                <Folder name="helpers">
+                    <File name="test\unit\helpers\profiles_helper_test.rb" />
+                    <File name="test\unit\helpers\statuses_helper_test.rb" />
+                    <File name="test\unit\helpers\user_friendships_helper_test.rb" />
+                </Folder>
+                <File name="test\unit\.gitkeep" />
+                <File name="test\unit\status_test.rb" />
+                <File name="test\unit\user_friendship_test.rb" />
+                <File name="test\unit\user_test.rb" />
+            </Folder>
+            <File name="test\factories.rb" />
+            <File name="test\test_helper.rb" />
+        </Folder>
+        <Folder name="tmp">
+            <Folder name="cache">
+                <Folder name="assets">
+                    <Folder name="BCC">
+                        <Folder name="9E0">
+                            <File name="tmp\cache\assets\BCC\9E0\sprockets%2F96009495c5423092079600419add5699" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="C11">
+                        <Folder name="C50">
+                            <File name="tmp\cache\assets\C11\C50\sprockets%2F2116030b0068687a3528350cc3c583d8" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="C80">
+                        <Folder name="840">
+                            <File name="tmp\cache\assets\C80\840\sprockets%2F562c2d168da585f80579347d10790a0a" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CA5">
+                        <Folder name="750">
+                            <File name="tmp\cache\assets\CA5\750\sprockets%2F2fd3f4551697a237ee0301da19575a12" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CA6">
+                        <Folder name="0F0">
+                            <File name="tmp\cache\assets\CA6\0F0\sprockets%2Fd7ad22498057cd42b0d81140729b47e0" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CA7">
+                        <Folder name="E80">
+                            <File name="tmp\cache\assets\CA7\E80\sprockets%2F0ca60301d059c4b8c6e79f24e4316634" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CAD">
+                        <Folder name="E30">
+                            <File name="tmp\cache\assets\CAD\E30\sprockets%2F1f24f4670c233b369b5c745c762e551b" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CAE">
+                        <Folder name="970">
+                            <File name="tmp\cache\assets\CAE\970\sprockets%2F842959926441c13c5e1d2b7fb6da1191" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CB4">
+                        <Folder name="7A0">
+                            <File name="tmp\cache\assets\CB4\7A0\sprockets%2F14d4874fe1240700e75b84ff6cf85170" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CB5">
+                        <Folder name="9E0">
+                            <File name="tmp\cache\assets\CB5\9E0\sprockets%2Fe459168835a5f27b832ace20874f7c10" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CC0">
+                        <Folder name="9E0">
+                            <File name="tmp\cache\assets\CC0\9E0\sprockets%2F129db2fe2c6d000710f09431b1a31a95" />
+                        </Folder>
+                        <Folder name="BB0">
+                            <File name="tmp\cache\assets\CC0\BB0\sprockets%2F8474cda9390bab7806ee999d95254211" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CC9">
+                        <Folder name="570">
+                            <File name="tmp\cache\assets\CC9\570\sprockets%2F411f543fac943532f3d35360b0c3c30e" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CD3">
+                        <Folder name="E00">
+                            <File name="tmp\cache\assets\CD3\E00\sprockets%2F623495e21f0b8b1bec4880c3712726aa" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CD5">
+                        <Folder name="2C0">
+                            <File name="tmp\cache\assets\CD5\2C0\sprockets%2F166c056119ebdfb8b7104c97b424b423" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CD7">
+                        <Folder name="6F0">
+                            <File name="tmp\cache\assets\CD7\6F0\sprockets%2Fbd3936370d0f952ada5774e2230046ed" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CD8">
+                        <Folder name="370">
+                            <File name="tmp\cache\assets\CD8\370\sprockets%2F357970feca3ac29060c1e3861e2c0953" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CDA">
+                        <Folder name="6B0">
+                            <File name="tmp\cache\assets\CDA\6B0\sprockets%2F58505e4e86fda40ac0aa528153653e65" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CE3">
+                        <Folder name="920">
+                            <File name="tmp\cache\assets\CE3\920\sprockets%2F64e0ecf2066913b17a2d2b6987a1389f" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CEA">
+                        <Folder name="B50">
+                            <File name="tmp\cache\assets\CEA\B50\sprockets%2F72e21fd75e6897148dd4da8056a36c51" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CEF">
+                        <Folder name="470">
+                            <File name="tmp\cache\assets\CEF\470\sprockets%2Fd285900c71bd7d96e0449935eeb4781e" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CF0">
+                        <Folder name="DA0">
+                            <File name="tmp\cache\assets\CF0\DA0\sprockets%2Fd7d5b37686831d37c4dd75e645f5e016" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CF5">
+                        <Folder name="250">
+                            <File name="tmp\cache\assets\CF5\250\sprockets%2F9e8575cf52b59e642d9643831a64eb8a" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="CFA">
+                        <Folder name="2F0">
+                            <File name="tmp\cache\assets\CFA\2F0\sprockets%2F5b13100b4042b94871ca8fcda8415e3c" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D03">
+                        <Folder name="210">
+                            <File name="tmp\cache\assets\D03\210\sprockets%2Fd842829ad32053e70478a008f02bfdac" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D15">
+                        <Folder name="9E0">
+                            <File name="tmp\cache\assets\D15\9E0\sprockets%2F68d9894b3fe4c06411b2b64b88105dee" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D18">
+                        <Folder name="430">
+                            <File name="tmp\cache\assets\D18\430\sprockets%2F201b1f0c743b1b3a85122a39b4bd22eb" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D19">
+                        <Folder name="D70">
+                            <File name="tmp\cache\assets\D19\D70\sprockets%2Fc04c909459ba63ecf8df1308329c56c8" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D28">
+                        <Folder name="610">
+                            <File name="tmp\cache\assets\D28\610\sprockets%2Ff8489efcf536489b6ba942a5a9056a57" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D2B">
+                        <Folder name="420">
+                            <File name="tmp\cache\assets\D2B\420\sprockets%2Fbb5d8249a789ec5ec65306959ffd2493" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D2E">
+                        <Folder name="F90">
+                            <File name="tmp\cache\assets\D2E\F90\sprockets%2F71be6545ac0e2ef0c223263aea65e274" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D30">
+                        <Folder name="0B0">
+                            <File name="tmp\cache\assets\D30\0B0\sprockets%2F4a340b735849a37f05e6d3b6461aaaac" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D31">
+                        <Folder name="230">
+                            <File name="tmp\cache\assets\D31\230\sprockets%2F755ca318ae88c1eb531cd6a174b2f330" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D32">
+                        <Folder name="A10">
+                            <File name="tmp\cache\assets\D32\A10\sprockets%2F13fe41fee1fe35b49d145bcc06610705" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D36">
+                        <Folder name="D50">
+                            <File name="tmp\cache\assets\D36\D50\sprockets%2Fb479c35f7f3f08f784c120b1f120b2cc" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D3B">
+                        <Folder name="670">
+                            <File name="tmp\cache\assets\D3B\670\sprockets%2F9bb4611f05aed57605767084c2f3ccdb" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D3E">
+                        <Folder name="990">
+                            <File name="tmp\cache\assets\D3E\990\sprockets%2Fbaf012f89f1743d36f580760d4e50ddc" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D46">
+                        <Folder name="730">
+                            <File name="tmp\cache\assets\D46\730\sprockets%2F95b09ae01cd27a10c8571dd9998acb69" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D48">
+                        <Folder name="690">
+                            <File name="tmp\cache\assets\D48\690\sprockets%2F743227afcc8f74dd05abd481c86763d7" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D4E">
+                        <Folder name="1B0">
+                            <File name="tmp\cache\assets\D4E\1B0\sprockets%2Ff7cbd26ba1d28d48de824f0e94586655" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D57">
+                        <Folder name="5C0">
+                            <File name="tmp\cache\assets\D57\5C0\sprockets%2F57dd166cac8b7fe76b261d7c8836578d" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D5A">
+                        <Folder name="800">
+                            <File name="tmp\cache\assets\D5A\800\sprockets%2F6c72eedf46c7493884cee6096a0c995c" />
+                        </Folder>
+                        <Folder name="EA0">
+                            <File name="tmp\cache\assets\D5A\EA0\sprockets%2Fd771ace226fc8215a3572e0aa35bb0d6" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D5E">
+                        <Folder name="4D0">
+                            <File name="tmp\cache\assets\D5E\4D0\sprockets%2Faa61726715c46ea17a59c216bcadaa29" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D62">
+                        <Folder name="940">
+                            <File name="tmp\cache\assets\D62\940\sprockets%2Fdb6c2b41b972f23fd30ba031de7895b3" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D87">
+                        <Folder name="DD0">
+                            <File name="tmp\cache\assets\D87\DD0\sprockets%2F96c5a77d2aa931f5a9297f9e42f65ede" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D8F">
+                        <Folder name="760">
+                            <File name="tmp\cache\assets\D8F\760\sprockets%2Ffe6e5e76ac429ef89aaa4bbc00220014" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D92">
+                        <Folder name="2B0">
+                            <File name="tmp\cache\assets\D92\2B0\sprockets%2F6238bdd04db6fa73240b02c85b3fce9b" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="D96">
+                        <Folder name="570">
+                            <File name="tmp\cache\assets\D96\570\sprockets%2F4e2a473b540ba38710fc5fff1761bcef" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DA2">
+                        <Folder name="2A0">
+                            <File name="tmp\cache\assets\DA2\2A0\sprockets%2F7b04b97f9bb53aae89770c1c7e301fde" />
+                        </Folder>
+                        <Folder name="520">
+                            <File name="tmp\cache\assets\DA2\520\sprockets%2F13834cfa405c82d6bac95f90f80eced7" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DA3">
+                        <Folder name="930">
+                            <File name="tmp\cache\assets\DA3\930\sprockets%2Fef4d81587317c10c49db6840cdcfbee4" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DAB">
+                        <Folder name="BC0">
+                            <File name="tmp\cache\assets\DAB\BC0\sprockets%2F05307666b626ddfa9efc97cd72e36bbf" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DAC">
+                        <Folder name="790">
+                            <File name="tmp\cache\assets\DAC\790\sprockets%2F950eaea69d94d3158ada6732b9f9f5bb" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DB6">
+                        <Folder name="6E0">
+                            <File name="tmp\cache\assets\DB6\6E0\sprockets%2Fc8dcd80ef655a86adbba5d390497799f" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DC0">
+                        <Folder name="AA0">
+                            <File name="tmp\cache\assets\DC0\AA0\sprockets%2Fb519efe9ec12533564acf21d3b2aa5cc" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DC5">
+                        <Folder name="C30">
+                            <File name="tmp\cache\assets\DC5\C30\sprockets%2F5d1b03f990a9cdcb53020f08cd9efd3b" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DC9">
+                        <Folder name="D70">
+                            <File name="tmp\cache\assets\DC9\D70\sprockets%2F0e96cef411cee1a9024cde8dd4561ab8" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DDB">
+                        <Folder name="410">
+                            <File name="tmp\cache\assets\DDB\410\sprockets%2F5c7665d7bd9253c533fae61ee4bdcdf9" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DDC">
+                        <Folder name="400">
+                            <File name="tmp\cache\assets\DDC\400\sprockets%2Fcffd775d018f68ce5dba1ee0d951a994" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="DF8">
+                        <Folder name="5A0">
+                            <File name="tmp\cache\assets\DF8\5A0\sprockets%2Fe76df2ad9b524d4405ecc0b5ba0cfe87" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="E04">
+                        <Folder name="890">
+                            <File name="tmp\cache\assets\E04\890\sprockets%2F2f5173deea6c795b8fdde723bb4b63af" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="E19">
+                        <Folder name="2A0">
+                            <File name="tmp\cache\assets\E19\2A0\sprockets%2F10fcfbe6ebae11a40c8eac41939a1b9a" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="E25">
+                        <Folder name="4C0">
+                            <File name="tmp\cache\assets\E25\4C0\sprockets%2Fde2fd9fd11c04a582cdbbe3d84a35ae6" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="E4C">
+                        <Folder name="C00">
+                            <File name="tmp\cache\assets\E4C\C00\sprockets%2F4a98a0e20ec0db0fdcacdc8dc9490d2a" />
+                        </Folder>
+                    </Folder>
+                </Folder>
+                <Folder name="sass">
+                    <Folder name="21cff22e6ec258b5672fceabfe6bb807038231e2" />
+                    <Folder name="c3d31f2ab58ab12fd434d346688b81985e652e3e" />
+                    <Folder name="c60b11442193e93bd97f74b6473140a66bf58062" />
+                </Folder>
+            </Folder>
+            <Folder name="pids">
+                <File name="tmp\pids\server.pid" />
+            </Folder>
+            <Folder name="sessions" />
+            <Folder name="sockets" />
+        </Folder>
+        <Folder name="vendor">
+            <Folder name="assets">
+                <Folder name="javascripts">
+                    <File name="vendor\assets\javascripts\.gitkeep" />
+                </Folder>
+                <Folder name="stylesheets">
+                    <File name="vendor\assets\stylesheets\.gitkeep" />
+                </Folder>
+            </Folder>
+            <Folder name="plugins" />
+        </Folder>
+        <File name=".buildpath" />
+        <File name=".gitignore" />
+        <File name=".project" />
+        <File name="config.ru" />
+        <File name="Gemfile" />
+        <File name="Gemfile.lock" />
+        <File name="Rakefile" />
+        <File name="README.rdoc" />
+    </Project>
+</NotepadPlus>
