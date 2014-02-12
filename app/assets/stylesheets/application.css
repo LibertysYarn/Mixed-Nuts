@@ -11,11 +11,11 @@
  *= require_self
  *= require_tree .
  */
- 
- body {
+
+body {
 	padding-top: 40px;
- }
+}
 
 .alert {
-    margin-top: 10px;
+	margin-top: 10px;
 }

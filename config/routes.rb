@@ -1,4 +1,4 @@
-Mixednuts::Application.routes.draw do
+Treebook::Application.routes.draw do
   get "profiles/show"
 
   as :user do

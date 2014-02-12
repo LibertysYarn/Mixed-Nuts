@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Mixednuts::Application.config.secret_token = 'cd7bebcd423e67ce80c1ec065318dd631e44d692bfc3a071c4e42c668a6a29eeedd3056c3a1133f927b8f6fa5acd215d1cf4ef2f7daa9d566bc80d4213cd89bf'
+MixedNuts::Application.config.secret_token = '33556d6265e114f2a48ffc4d185dd9e27b33c4a43fb007bf48f0fbb1c7c2bc41b457aa0e95bd82449e5f85b5f6798690acc9c10e5eb512409cbb670d82d47fc5'
