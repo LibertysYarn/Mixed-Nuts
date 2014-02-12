@@ -2,4 +2,4 @@
 require File.expand_path('../application', __FILE__)
 
 # Initialize the rails application
-MixedNuts::Application.initialize!
+Mixednuts::Application.initialize!
