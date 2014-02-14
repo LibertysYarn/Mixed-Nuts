@@ -3,11 +3,11 @@
 </div>
 
 <div class="row">
-  <div class="avatar span2">
+  <div class="avatar col-xs-2 col-xs-2 col-md-2">
     <%= image_tag @user_friendship.user.gravatar_url %><br />
     <%= @user_friendship.user.first_name %>
   </div>
-  <div class="avatar span2">
+  <div class="avatar col-xs-2 col-xs-2 col-md-2">
     <%= image_tag @user_friendship.friend.gravatar_url %><br />
     <%= @user_friendship.friend.first_name %>
   </div>

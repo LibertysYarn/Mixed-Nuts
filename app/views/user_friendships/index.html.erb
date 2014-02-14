@@ -13,10 +13,10 @@
 <% @user_friendships.each do |friendship| %>
   <% friend = friendship.friend %>
   <div id="<%= dom_id(friendship) %>" class="friend row">
-    <div class="span1">
+    <div class="col-xs-1 col-xs-1 col-md-1">
       <%= link_to image_tag(friend.gravatar_url), profile_path(friend) %>
     </div>
-    <div class="span7">
+    <div class="col-xs-12 col-xs-7 col-md-5">
       <strong><%= friend.full_name %></strong><br />
         <% if friendship.pending? %>
           <em>Friendship is pending.</em> <%= link_to "Delete request", edit_user_friendship_path(friendship.friend.profile_name) %>.
