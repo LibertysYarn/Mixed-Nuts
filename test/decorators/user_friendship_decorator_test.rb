@@ -65,3 +65,4 @@ class UserFriendshipDecoratorTest < ActiveSupport::TestCase
 
   end
 end
+
