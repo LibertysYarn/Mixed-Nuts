@@ -14,3 +14,5 @@ class UserFriendshipDecorator < Draper::Decorator
       "You are friends with #{model.friend.first_name}."
     end
 end
+end
+
