@@ -16,3 +16,9 @@ mike:
   last_name: "the Frog"
   email: "mike@teamtreehouse.com"
   profile_name: "mikethefrog"
+  
+blocked_friend:
+  first_name: blocked
+  last_name: friend
+  email: blocked@friend.com
+  profile_name: "you blocked me"
