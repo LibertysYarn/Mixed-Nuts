@@ -12,6 +12,7 @@ gem 'state_machine'
 gem 'draper', '~> 1.0'
 gem 'js-routes'
 gem 'rails_12factor'
+gem 'bugsnag'
 
 group :test do
   gem 'shoulda'
